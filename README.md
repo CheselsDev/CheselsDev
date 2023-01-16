@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Rust
-😄 Pronouns: Anything really :3
-⚡ Fun fact: 
+-🌱 I’m currently learning Rust.
+
+-😄 Pronouns: Anything really.
+
+-⚡ Fun fact: Water makes up 71% of the earth surface!
 <!--
 **CheselsDev/CheselsDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
