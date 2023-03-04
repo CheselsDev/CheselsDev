@@ -1,6 +1,6 @@
 ### Hi there 👋
 
--🌱 I’m currently learning Rust.
+-🌱 I’m currently learning C/C++.
 
 -😄 Pronouns: Anything really.
 
